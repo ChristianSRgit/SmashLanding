@@ -55,7 +55,7 @@ export default function LandingPage() {
             <span className="text-yellow-400">★</span> 4.8 en Google (31 opiniones) · <span className="text-yellow-400">★</span> 4.8 en PedidosYa (59 opiniones)
           </p>
           <p className="text-foreground font-medium">
-            Más de 1000 pedidos felices
+            Más de 1000 bajoneros felices
           </p>
         </div>
       </section>

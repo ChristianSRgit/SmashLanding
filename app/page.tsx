@@ -41,7 +41,7 @@ export default function LandingPage() {
           href="https://api.whatsapp.com/send/?phone=541121873161&text=Quiero%20hacer%20un%20pedido!"
           className="inline-block bg-accent text-accent-foreground text-xl sm:text-2xl font-black uppercase px-12 py-4 rounded-lg mt-4 transition-transform hover:scale-105 active:scale-95"
         >
-          QUIERO!
+          QUIERO!!!
         </a>
 
         {/* Delivery Info */}

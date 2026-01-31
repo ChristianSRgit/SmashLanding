@@ -38,14 +38,14 @@ export default function LandingPage() {
           Entrega de 15 a 30 minutos.
         </p>
 
-        <div className="relative w-full max-w-xs sm:max-w-sm md:max-w-md my-4">
+        <div className="relative w-full max-w-sm sm:max-w-md md:max-w-lg my-6">
           <Image
             src="/burger.png"
             alt="hamburguesa smash artesanal en San Isidro"
-            width={500}
-            height={500}
+            width={600}
+            height={600}
             priority
-            sizes="(max-width: 640px) 320px, (max-width: 768px) 384px, 448px"
+            sizes="(max-width: 640px) 384px, (max-width: 768px) 448px, 512px"
             className="w-full h-auto"
           />
         </div>

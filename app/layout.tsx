@@ -28,6 +28,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
+      <head>
+        <link rel="preconnect" href="https://api.whatsapp.com" />
+        <link rel="dns-prefetch" href="https://api.whatsapp.com" />
+      </head>
       <body className="font-sans antialiased">
         {children}
         <Analytics />
